@@ -121,3 +121,11 @@
 * M/L (Strader...) - decreasing w/ metallicity (not predicted) - shallow
   IMF (deficient in low-mass stars). Compare to van Dokkem & Conroy
 * SMBH-mass vs. NGC relation is pretty tight but MW is not on the relation.
+
+## SPLASH
+### Raja
+
+* Boxy bulge in M31.
+* SBP inflection point.
+* Stellar kinematics = broad centered at ~0 and narrow at ~few hundred.
+  (Dorman)
