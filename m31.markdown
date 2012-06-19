@@ -46,6 +46,7 @@
 ### Savage
 
 * Holy analog feedback loops for image stabilization in balloons, Batman!
+* Engineers were awesome, back in the day... steampunk astronomy!
 
 ## Stellar Dynamics in M31 Nucleus
 ### Magorrian
@@ -77,4 +78,11 @@
 
 * Intense foreground dust contamination removal using cross-correlations.
 * Again, pixel-by-pixel SED fitting (using BB in this case)... love it!
-* Deprojection then source detection in maps (Kirk et al in prep)
+* Deprojection then source detection in maps (Kirk et al in prep) PSF?
+
+## Molecular Cloud Census in M31
+### Schruba
+
+* ~500 molecular clouds in LG sats + M31. Cloud formation/evolution?
+* Directed survey targeting region of PHAT (brick 15)
+* Large spread in surface mass density of clouds.
