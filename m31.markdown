@@ -60,3 +60,14 @@
 * `M31*` vs. `SgrA*` — further but much more massive (factor of ~100 each).
 * Chandra monitoring of central M31 -> decade long lightcurve.
 * Bright burst around 2006 brighter now w/ flares.
+
+## Herschel Studies of the Interstellar Medium of M31
+### Sandstrom
+
+* Why M31 for ISM? Can study all scales and resolve stars.
+* Full survey of M31 using Herschel. Coincidence with PHAT using SED fits
+  to have details about stars/dust extinction.
+* + spectroscopic survey from Herschel. (+ Spitzer, etc.)
+* Full coverage of ISM phases!
+* Pixel-by-pixel SED fitting (Aniano) -> dust map. _whoa_
+* _Note to everyone_: use `histtype='step'` in `pyplot.hist`!
