@@ -93,3 +93,11 @@
 * To limits of current surveys, there are ~2.5 times more satellites around
   M31 than the MW (or more?).
 * NGC 205 on first pass? Some star formation, interacting.
+
+## Homogeneous Photometric Characterization of 16 M31 dSphs
+### Beaton
+
+* Washington + D51 method for separation of dwarf/giant stars.
+* To find sats, do CMD + _CC_ cuts.
+* Structure fitting: power law + core. (Plummer)
+* Same techniques as used in MW.
