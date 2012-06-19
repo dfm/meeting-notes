@@ -71,3 +71,10 @@
 * Full coverage of ISM phases!
 * Pixel-by-pixel SED fitting (Aniano) -> dust map. _whoa_
 * _Note to everyone_: use `histtype='step'` in `pyplot.hist`!
+
+## The Herschel Exploitation of M31: Infrared morphology at large scales
+### Fritz
+
+* Intense foreground dust contamination removal using cross-correlations.
+* Again, pixel-by-pixel SED fitting (using BB in this case)... love it!
+* Deprojection then source detection in maps (Kirk et al in prep)
