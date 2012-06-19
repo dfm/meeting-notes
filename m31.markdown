@@ -53,3 +53,10 @@
 * 3D massless disk ala Peiris & Tremaine. Assumed DF with "clumps" in a/e(?)
   space? Optimizing _hundreds_ of parameters.
 * 2D massless disk modeling is _hard_.
+
+## The M31 Supermassive Black Hole
+### Garcia
+
+* `M31*` vs. `SgrA*` — further but much more massive (factor of ~100 each).
+* Chandra monitoring of central M31 -> decade long lightcurve.
+* Bright burst around 2006 brighter now w/ flares.
