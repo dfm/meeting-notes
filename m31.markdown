@@ -1,0 +1,55 @@
+# The Great Andromeda Galaxy
+## Princeton University, June 18-20, 2012
+
+## June 18
+
+## The mass of M31
+### Evans
+
+* _Rotation curve_: Corbelli et al. (2010) 8-37 kpc tilted ring analysis.
+  There are some asymmetries in outer parts. They also do a disk/bulge
+  decomposition. Compare to Seigar et al. (2008).
+* _Mass estimators_: calibrating against numerical simulations (GIMIC).
+  General form: `M = C * sum(v^2 R^alpha)`. ~80% of masses are within factor
+  of 2 from simulated masses.
+* _Anisotropy_: distribution of satellite galaxies is roughly isotropic
+  from ensemble average over simulated halos.
+* _Rogue satellites_: ~3% of satellites unbound.
+* _Results on M31_: Watkins et al. (2010) 1.4 +/- 0.4 x 10^12.
+* _Proceed with caution_: Deason et al. (2012) declining velocity dispersion
+  profile (BHB stars).
+
+## Proper motion of M31
+### van der Marel
+
+* _Timing argument_: Radial expasion Hubble flow -> decoupled. Tidal torques
+  can introduce angular momentum. Therefore the orbit _is not_ necessarily
+  radial from this argument!
+* _Numbers_: maximum 200 km/s = 55 uas/year (how fast human hair grows at the
+  distance of the moon). ~1/100 pixels w/ HST over ~10 yr baseline.
+* _PM measurement_: ~10000 M31 stars/field, ~200 BG galaxies.
+* _Corrections_: peculiar motion of stars too.
+* _Measured_: < 34 km/s (needed to correct for solar motion).
+* _Canonical simulation_: merger @ 6.3 Gyr and M33 continues to orbit.
+* _Merger_: full mixing takes ~10 Gyr.
+
+## PHAT
+### Dalcanton
+
+* HST survey in 6 filters across NE half of disk. Less extincted/contaminated
+  half.
+* There has been a public data release.
+* ~90M stars so far. Measured up to 17 times.
+* Confusion limited. Very significant in NIR/optical.
+
+## The Stratoscope Project
+### Savage
+
+* Holy analog feedback loops for image stabilization in balloons, Batman!
+
+## Stellar Dynamics in M31 Nucleus
+### Magorrian
+
+* 3D massless disk ala Peiris & Tremaine. Assumed DF with "clumps" in a/e(?)
+  space? Optimizing _hundreds_ of parameters.
+* 2D massless disk modeling is _hard_.
