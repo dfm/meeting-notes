@@ -102,3 +102,22 @@
 * Structure fitting: power law + core. (Plummer)
 * Same techniques as used in MW.
 * Larger half light radii because of better foreground & background removal.
+
+## GCs in M31
+### Brodie
+
+* How alike are the GC systems in MW vs. M31? ~ 20 years ago: pretty similar,
+  but some difference: Cn enhancement in M31 GCs.
+* M31 GCs have thin disk kinematics (no mergers?).
+* More recently: Caldwell+ (2011), etc.
+* Morrison+ (2011): disk kinematics have to do with confusion of GCs vs.
+  open clusters.
+* Ages were also poorly estimated, confused by metallicity.
+* Numbers: ~150 in MW, ~400 in M31. MW has 2 times as many MP as MR GCs
+  whereas M31 has same for both. Compare to relative bulge masses so that
+  might explain things?
+* Bimodality?
+* Extended clusters, faint fuzzies.
+* M/L (Strader...) - decreasing w/ metallicity (not predicted) - shallow
+  IMF (deficient in low-mass stars). Compare to van Dokkem & Conroy
+* SMBH-mass vs. NGC relation is pretty tight but MW is not on the relation.
