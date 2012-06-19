@@ -86,3 +86,10 @@
 * ~500 molecular clouds in LG sats + M31. Cloud formation/evolution?
 * Directed survey targeting region of PHAT (brick 15)
 * Large spread in surface mass density of clouds.
+
+## M31 Satellites
+### Geha
+
+* To limits of current surveys, there are ~2.5 times more satellites around
+  M31 than the MW (or more?).
+* NGC 205 on first pass? Some star formation, interacting.
