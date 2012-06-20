@@ -137,3 +137,10 @@
 * Conn et al. (2011, 2012) satellite distances including PDFs.
 * Automatic satellite detection (after modeling and removal of MW
   contamination) --- Martin et al. (2012).
+
+## M31 Halo Substructure
+### Johnston
+
+* Star clouds vs. stellar streams. Dynamics as a function of energy and
+  angular momentum.
+* "oddball satellites" once within r[virial] now moving out.
