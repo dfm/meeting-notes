@@ -129,3 +129,11 @@
 * SBP inflection point.
 * Stellar kinematics = broad centered at ~0 and narrow at ~few hundred.
   (Dorman)
+
+## PAndAS
+### Martin
+
+* 96 million sources -> ~ 10 million stars in M31 selection box.
+* Conn et al. (2011, 2012) satellite distances including PDFs.
+* Automatic satellite detection (after modeling and removal of MW
+  contamination) --- Martin et al. (2012).
